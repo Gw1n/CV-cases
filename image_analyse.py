@@ -2,7 +2,7 @@ import cv2
 import serial
 import time
 
-img = cv2.imread("C:/Users/mvore/rainbow.jpg")
+img = cv2.imread("*Enter your picture adress*")
 
 #img = cv2.resize(img, (3, 3))
 
